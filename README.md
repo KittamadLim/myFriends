@@ -1,0 +1,2 @@
+# RandomizeFriend
+ Simple DOM JavaScript
